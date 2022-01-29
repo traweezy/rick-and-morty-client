@@ -1,1 +1,1 @@
-# Rick and Morty Client for Boost
+# Rick and Morty Client
